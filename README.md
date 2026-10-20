@@ -48,7 +48,7 @@ License).
 ## Before going live
 
 - [ ] Replace placeholder **stats, case studies and testimonials** with real ones in `src/content/site.ts`
-- [ ] Set the real **phone number, WhatsApp number, email and social links** in `company`
+- [ ] Set the real **email and social links** in `company`
 - [ ] Connect the contact form to email/CRM — see the `TODO` in `src/app/api/contact/route.ts`
   (e.g. Resend, SendGrid or HubSpot)
 - [ ] Update the domain in `src/app/layout.tsx`, `src/app/sitemap.ts` and `src/app/robots.ts` if it isn't

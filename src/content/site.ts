@@ -31,9 +31,9 @@ export const company = {
   short: "Kadri",
   tagline: "IT consulting & software delivery",
   email: "hello@kadriconsultancy.com",
-  phone: "+91 00000 00000",
-  phoneHref: "tel:+910000000000",
-  whatsappHref: "https://wa.me/910000000000",
+  phone: "+91 73836 78267",
+  phoneHref: "tel:+917383678267",
+  whatsappHref: "https://wa.me/917383678267",
   location: "Remote-first · Serving clients worldwide",
   hours: "Mon–Fri, 9:00–18:00 IST",
   social: {
